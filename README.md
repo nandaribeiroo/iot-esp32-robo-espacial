@@ -83,7 +83,7 @@ As mensagens de status também podem indicar se o robô está ligado ou desligad
 
 ## Link da Simulação
 
-**Projeto no Wokwi:** [https://wokwi.com/projects/477227266657475585]
+**Projeto no Wokwi:** https://wokwi.com/projects/477227266657475585
 
 ## Estrutura do Repositório
 
